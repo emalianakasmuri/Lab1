@@ -16,6 +16,7 @@ public class Weight {
 	// Declaration of attributes
 	private float onEarth;
 	private float onMars;
+	private float onJupyter;
 	
 	
 	/**
